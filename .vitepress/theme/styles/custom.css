@@ -1,0 +1,58 @@
+/* 自定义样式文件 - 放大所有句子的字体并支持明暗主题切换 */
+
+/* 使用更强的选择器确保样式生效 */
+:root {
+  /* 在根元素定义字体变量 - 适合小学生阅读 */
+  --sentence-font-size: 1.8rem;
+  --sentence-line-height: 1.6;
+  --sentence-margin-bottom: 1.2rem;
+  --sentence-padding: 0.8rem 1rem;
+}
+
+/* 针对有序列表和无序列表中的句子 - 确保在明暗中都能正常显示 */
+main ol li, main ul li {
+  font-size: var(--sentence-font-size) !important;
+  line-height: var(--sentence-line-height) !important;
+  margin-bottom: var(--sentence-margin-bottom) !important;
+  padding: var(--sentence-padding) !important;
+  /* 不设置背景色，避免覆盖主题的明暗模式 */
+  border-radius: 8px !important;
+  /* 使用半透明边框，在明暗模式下都能看到 */
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  /* 轻微阴影效果 */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) !important;
+  /* 平滑过渡效果 */
+  transition: all 0.3s ease !important;
+}
+
+/* 悬停效果 - 在明暗模式下都能工作 */
+main ol li:hover, main ul li:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* 深色模式的特定调整 */
+html.dark main ol li, html.dark main ul li {
+  border-color: rgba(255, 255, 255, 0.1) !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3) !important;
+}
+
+html.dark main ol li:hover, html.dark main ul li:hover {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.4) !important;
+}
+
+/* 确保在移动设备上也有良好的显示效果 */
+@media (max-width: 768px) {
+  :root {
+    --sentence-font-size: 1.6rem;
+    --sentence-margin-bottom: 1rem;
+    --sentence-padding: 0.6rem 0.8rem;
+  }
+}
+
+/* 进一步优化移动端小屏幕 */
+@media (max-width: 480px) {
+  :root {
+    --sentence-font-size: 1.5rem;
+  }
+}
