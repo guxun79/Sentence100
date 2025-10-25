@@ -6,13 +6,6 @@ hero:
   name: "Sentence 100"
   text: "100个句子记完1200个小学单词"
   tagline: 为顾明德 2025.10.25
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
 
 features:
   - title: 1 健康的生活方式
