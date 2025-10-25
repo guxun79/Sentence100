@@ -47,5 +47,9 @@ features:
     link: /category-15
   - title: 16 动植物
     link: /category-16
+  - title: 17 自然和环境
+    link: /category-17
+  - title: 18 科学技术和宇宙探索
+    link: /category-18
 ---
 
