@@ -17,6 +17,7 @@ export default defineConfig({
       {
         text: '',
         items: [
+          { text: '📚 全部句子', link: '/sentence100' },
           { text: '1 健康生活', link: '/category-1' },
           { text: '2 日常生活', link: '/category-2' },
           { text: '3 体育运动', link: '/category-3' },
