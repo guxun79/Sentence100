@@ -7,6 +7,7 @@
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
     "merge:categories": "powershell -File merge_categories.ps1",
-    "merge:categories:bash": "bash merge_categories.sh"
+    "merge:categories:bash": "bash merge_categories.sh",
+    "fix:order": "bash fix_order_numbers.sh"
   }
 }
