@@ -10,22 +10,16 @@ cat > "$OUTPUT_FILE" << 'EOL'
 
 This document contains all 18 categories of English sentences for overall learning and memorization.
 
-## 目录
-
 EOL
 
-# 添加目录
-for i in {1..18}; do
-  echo "- [$i](#$i)" >> "$OUTPUT_FILE"
-done
+# 添加空行
+echo "" >> "$OUTPUT_FILE"
 
-echo "" >> "$OUTPUT_FILE"
-echo "" >> "$OUTPUT_FILE"
 
 # 处理每个分类
 for i in {1..18}; do
   # 添加分类标题
-  echo "### $i" >> "$OUTPUT_FILE"
+  # echo "### $i" >> "$OUTPUT_FILE"
   echo "" >> "$OUTPUT_FILE"
   
   # 检查文件是否存在

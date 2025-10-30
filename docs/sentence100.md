@@ -2,29 +2,7 @@
 
 This document contains all 18 categories of English sentences for overall learning and memorization.
 
-## 目录
 
-- [1](#1)
-- [2](#2)
-- [3](#3)
-- [4](#4)
-- [5](#5)
-- [6](#6)
-- [7](#7)
-- [8](#8)
-- [9](#9)
-- [10](#10)
-- [11](#11)
-- [12](#12)
-- [13](#13)
-- [14](#14)
-- [15](#15)
-- [16](#16)
-- [17](#17)
-- [18](#18)
-
-
-### 1
 
 # 1 健康的生活方式
 1. It's time for us to have lunch.
@@ -32,7 +10,6 @@ This document contains all 18 categories of English sentences for overall learni
 1. Which fruit do you like,apples or oranges?
 1. The fish soup tasted so good that the guests asked for more.
 
-### 2
 
 # 2 日常行为及习惯
 5. She usually gets up at half past seven in the morning.
@@ -45,7 +22,6 @@ This document contains all 18 categories of English sentences for overall learni
 1. After lunch,Ann cleaned the table and washed dishes.
 1. I'll learn about cooking on the internet.
 
-### 3
 
 # 3 体育运动
 14. Chinese people are very good at table tennis,and it's our favorite sport.
@@ -53,7 +29,6 @@ This document contains all 18 categories of English sentences for overall learni
 1. He's going to the nearby valley to take part in a mountain bike race.
 
 
-### 4
 
 # 4 学校学习
 17. My favorite subject is science because I can do experiments during the class.
@@ -74,7 +49,6 @@ This document contains all 18 categories of English sentences for overall learni
 
 
 
-### 5
 
 # 5 兴趣爱好
 32. I like football,reading,swimming and singing songs. 
@@ -83,7 +57,6 @@ This document contains all 18 categories of English sentences for overall learni
 1. She began to learn the piano at the age of five.
 1. Here is a story about air and water.
 
-### 6
 
 # 6 娱乐活动
 37. We well have an English party next Sunday.
@@ -91,7 +64,6 @@ This document contains all 18 categories of English sentences for overall learni
 1. The morning,Tina and I flew my new kite in the park,but it wasn't windy in the park.
 1. It's very kind of you to help me get the ticket for the concert. 
 
-### 7
 
 # 7 情绪和情感
 41. The students couldn't help laughing when they heard the joke.
@@ -102,7 +74,6 @@ This document contains all 18 categories of English sentences for overall learni
 1. Thank for your invitation to have dinner,but I can't come.
 1. I'm sorry to hear that.
 
-### 8
 
 # 8 家人和朋友
 48. On each shelf,the books are lined up in order from smallest to largest.
@@ -112,7 +83,6 @@ This document contains all 18 categories of English sentences for overall learni
 1. I want to be a doctor like my mom and help more people.
 1. It's very nice of you to write to me.
 
-### 9
 
 # 9 人物描写
 54. The new teacheer is short,with big eyes.
@@ -120,7 +90,6 @@ This document contains all 18 categories of English sentences for overall learni
 1. Joey's hair is a little shorter than Daisy's.
 1. The man was poor but he was honest.
 
-### 10
 
 # 10 购物与服装
 58. Many people don't like shopping on the Internet because they can't see the things or try the clothes on.
@@ -128,76 +97,68 @@ This document contains all 18 categories of English sentences for overall learni
 1. She put on her favourite orange dress.
 1. She has a nice pair of pink gloves.
 
-### 11
 
-# 11 科学与自然
+# 11 假期和旅行
 62. It's traditional to eat moon cakes on Mid-Autumn Day in China.
 1. My mother will take me to the World Park to learn about the famous places around the world tomorrow.
 1. Last summer vacation I went to Beijing with my parents.
 1. We went to the Science Museum last Saturday.
 
-### 12
 
-# 12 旅行与交通
+# 12 交通秩序
 66. When we cross the road,we must follow the traffic rules.
 1. To keep safe,you can wait on the pavement and look out for cars and bikes.
 1. You must not play football on the road because there are many cars and bikes.
 1. Let's meet at the bus stop at 8 o'clock.
 1. Maybe you can ride a bike or take a bus instead of driving a car.
-1.
-1.
-1.
+1. It takes us half an hour to walk to school every day.
+1. The train from TianJinnan arrived an hour ago.
+1. You can go down the street and then turn right at the first corner.
 
-### 13
 
-# 13 学校生活
-1.
-1.
-1.
-1.
+# 13 城市和位置
+74. We mustn't talk or speeak loudly in public places like hospitals,libraries or cinemas.
+1. Hainan is in the south of China.
+1. The bookstore is next to the library.
+1. My grandpma lives with my uncle in a village not too far away.
 
-### 14
 
-# 14 社会与文化
-1.
-1.
+# 14 健康和疾病
+78. Sitting for a long time at the compoter is bad for our health.
+1. People often need to take some medicine when they catch a cold or a cough.
 
-### 15
 
 # 15 天气与季节
-80.
-1.
-1.
-1.
+80. It will be cold and windy in Xi'an and it will be sunny and warm in Sanya.
+1. The weather is very hot,so the ice turns into water.
+1. The weather forcast says it will be rainy in the late afternoon.
+1. People plant trees in spring and farmers are busy harvesting in autumn.
 
-### 16
 
-# 16 动物与植物
-84.
-1.
-1.
-1.
-1.
-1.
-1.
+# 16 动植物
+84. When spring comes,the animals that sleep in winter start waking up.
+1. What a big elephant it is.
+1. You can see as many as 15,000 butterfiles sitting on one branch!
+1. Joy keeps two pets at home and she feeds them after dinner every day.
+1. It's your turn to walk the dog.
+1. The girl want to buy a flower for her mum.
+1. Now there are only about ten thousand blue  whales in the wild.
 
-### 17
 
 # 17 自然与环境
-91.
-1.
-1.
-1.
-1.
-1.
-1.
+91. Most of the kids have never seen the sea.
+1. The moon is round and bright on the that day.
+1. The moon goes around the earth all the time.
+1. We shouldn't leave the rubbish anywhere.
+1. We should not cut down too many trees because trees help keep the air clean.
+1. We use plastic to make bags and bottles,but too much plastic is bad for the Earth.
+1. We should not drive so much because cars use a lot of energy.
 
-### 18
 
 # 18 科学技术与宇宙探索
-98.
-1.
-1.
+98. Robots can cheer up sick kids,too.
+1. We're going to see a film about space travel.
+1. They will travel to Mars in a Time Chair.
 
 ---
 
