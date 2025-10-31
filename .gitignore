@@ -13,12 +13,10 @@ node_modules
 .pnp.js
 
 # Build outputs
-dist
 *.local
 build
 .cache
 .vitepress/dist
-node_modules
 
 # Editor directories and files
 .vscode/*
