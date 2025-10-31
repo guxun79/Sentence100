@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { fileURLToPath, URL } from 'node:url'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -6,8 +7,7 @@ export default defineConfig({
   base: "/sentence100/",
   title: "Sentence 100",
   description: "100个句子记完1200个小学单词",
-  
-  // 使用自定义主题引入样式
+  themeDir: fileURLToPath(new URL('./theme', import.meta.url)),
   
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
