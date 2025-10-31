@@ -9,6 +9,7 @@
     "merge:categories": "powershell -File merge_categories.ps1",
     "merge:categories:bash": "bash merge_categories.sh",
     "fix:order": "bash fix_order_numbers.sh",
-    "fix:reset": "powershell -ExecutionPolicy Bypass -File fix_reset_numbers.ps1"
+    "fix:reset": "powershell -ExecutionPolicy Bypass -File fix_reset_numbers.ps1",
+    "deploy": "npm run docs:build && npx gh-pages -d .vitepress/dist"
   }
 }
