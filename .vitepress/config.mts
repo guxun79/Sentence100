@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: "docs",
+  base: "/sentence100/",
   title: "Sentence 100",
   description: "100个句子记完1200个小学单词",
   
