@@ -17,6 +17,11 @@ node_modules
 build
 .cache
 .vitepress/dist
+.vitepress/cache
+.vitepress/.temp
+.vitepress/tsconfig.json
+.vitepress/*.tsbuildinfo
+.vitepress/.vite
 
 # Editor directories and files
 .vscode/*
